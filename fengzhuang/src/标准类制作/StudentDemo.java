@@ -11,6 +11,8 @@ public class StudentDemo {
         //使用带参构造方法直接创建带有属性的对象
         Student s2 = new Student("徐长卿",300);
         s2.show();
+
+        System.out.println("hello git");
     }
 
 }
