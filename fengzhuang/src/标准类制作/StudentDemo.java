@@ -13,6 +13,7 @@ public class StudentDemo {
         s2.show();
 
         System.out.println("hello git");
+        System.out.println("hello git 2");
     }
 
 }
